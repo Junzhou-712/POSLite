@@ -1,2 +1,6 @@
-# intro-to-se
-四川大学软件工程导论课程课程代码仓库
+# POSLite
+  * Introduction
+    It is the final project of Sichuan University Introduction of Software Engineering, which is a light-weight POS system for supermarket environment.
+  * PDF Link:***
+  * License
+    GPL 3.0
