@@ -6,7 +6,5 @@
 
   * Constructure
 
-    ![image-20211204120405182](/Users/joesu/Library/Application Support/typora-user-images/image-20211204120405182.png)
-
   * License
     MIT
